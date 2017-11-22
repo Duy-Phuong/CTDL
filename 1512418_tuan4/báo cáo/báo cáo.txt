@@ -1,0 +1,10 @@
+bai 1:
+cai dat duoc cac thuat toan sap xep tang theo yeu cau tru cac thuat toan khong bat buoc nhu merge sort va shell sort va xuat ra tap tin
+bai 2: 
+cai dat duoc cac thuat toan sap xep giam theo yeu cau tru cac thuat toan va xuat ra tap tin
+bai 3:
+cai dat duoc cac thuat toan sap xep theo yeu cau tru cac thuat toan va tinh duoc thoi gian va xuat ra tap tin
+bai 4: 
+sap xep chan tang dan va le giam dan va xuat ra tap tin
+bai 5: 
+sap xep theo tuoi bang heap sort neu nam sinh trung nhau thi sap ten theo bang chu cai va xuat ra tap tin

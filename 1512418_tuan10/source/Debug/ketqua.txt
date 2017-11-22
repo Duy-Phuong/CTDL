@@ -1,0 +1,11 @@
+Query string 1
+[DB string 1] at offset 7
+Query string 2
+[DB string 1] at offset 47
+[DB string 2] at offset 33
+Query string 3
+[DB string 1] at offset 92
+[DB string 2] at offset 79
+Query string 4
+NOT FOUND
+Time total: 0.008

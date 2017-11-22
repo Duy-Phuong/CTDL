@@ -1,0 +1,9 @@
+?Query string 1
+CATTCTGACTGCAA
+?Query string 2
+AAAAAAG
+?Query string 3
+GTAA
+?Query string 4
+AGAGAGAGAGAGAGAGAGAGAGAGAGAGAG
+?EOF

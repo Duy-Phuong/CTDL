@@ -1,0 +1,10 @@
+MSSV: 1512418
+Ten: Tran Duy Phuong
+
+bai 1:
+muc do hoan thanh: tim duoc tat ca vi tri xuat hien trong mang, neu k co xuat ra -1
+Bai 2: 
+muc do hoan thanh: xuat duoc thoi gian khi nhap vao tao random va tim kiem
+Bai 3:
+muc do hoan thanh: lam duoc xu li bang noi ket va tim kiem tuyan tinh bang ham bam
+lam duoc 2/3 cach va xuat ra tap tin theo yeu cau de bai

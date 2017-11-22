@@ -1,0 +1,5 @@
+bieu thuc hop le
+bieu thuc khong hop le tai vi tri: 3, 9, 11
+bieu thuc khong hop le tai vi tri: 1, 6
+bieu thuc khong hop le tai vi tri: 3, 4, 6
+bieu thuc khong hop le tai vi tri: 3, 4, 6

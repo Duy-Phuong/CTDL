@@ -1,0 +1,6 @@
+BT1:
+cai dat thanh cong stack bang danh sach lien ket doc noi dung tu tap tin va kiem tra tinh hop le cac bieu thuc so hoc
+BT2:
+cai dat thanh cong queue bang danh sach lien ket doc noi dung tu tap tin data.txt cac loi goi trong input_BT2 va xuat ra ouput_BT2
+BT3:
+khong bat buoc

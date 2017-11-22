@@ -1,0 +1,34 @@
+Query string 1
+[DB string 1] at offset 7
+[DB string 7] at offset 7
+[DB string 9] at offset 22
+[DB string 10] at offset 22
+Query string 2
+[DB string 1] at offset 47
+[DB string 2] at offset 33
+[DB string 3] at offset 20
+[DB string 4] at offset 27
+[DB string 5] at offset 8
+[DB string 6] at offset 27
+[DB string 7] at offset 47
+[DB string 8] at offset 33
+[DB string 9] at offset 62
+[DB string 10] at offset 62
+[DB string 11] at offset 21
+Query string 3
+NOT FOUND
+[DB string 2] at offset 79
+[DB string 3] at offset 65
+[DB string 4] at offset 73
+[DB string 5] at offset 53
+[DB string 6] at offset 73
+[DB string 7] at offset 92
+[DB string 8] at offset 79
+[DB string 9] at offset 107
+[DB string 10] at offset 107
+[DB string 11] at offset 67
+Query string 4
+NOT FOUND
+[DB string 6] at offset 132
+[DB string 11] at offset 126
+Time total: 0.072
